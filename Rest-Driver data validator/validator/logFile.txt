@@ -1,0 +1,10 @@
+*********************************************************
+Table Name: ACCOUNTS
+Primary key: PARTYID
+Missed columns from JSON: [DESCRIPTION_C]
+Miss Match columns are : []
+Miss Match Data in driver: []
+Miss Match Data in Rest: []
+*********************************************************
+
+
